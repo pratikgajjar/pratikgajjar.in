@@ -1,6 +1,6 @@
 {
-  "name": "@hyas/doks",
-  "description": "Doks theme",
+  "name": "backend.how",
+  "description": "Guide to BE",
   "version": "0.2.3",
   "hugo-bin": {
     "buildTags": "extended"
@@ -8,7 +8,7 @@
   "browserslist": [
     "defaults"
   ],
-  "repository": "https://github.com/h-enk/doks",
+  "repository": "https://github.com/pratikgajjar/backend.how/",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
@@ -38,29 +38,29 @@
   },
   "devDependencies": {
     "@babel/cli": "^7.13",
-    "@babel/core": "^7.14",
-    "@babel/preset-env": "^7.14",
+    "@babel/core": "^7.13",
+    "@babel/preset-env": "^7.13",
     "@fullhuman/postcss-purgecss": "^4.0",
+    "@hyas/doks": "^0.2",
     "autoprefixer": "^10.2",
-    "bootstrap": "^5.0",
+    "bootstrap": "^5.0.0-beta3",
     "clipboard": "^2.0",
-    "eslint": "^7.24",
+    "eslint": "^7.23",
     "flexsearch": "^0.6",
     "highlight.js": "^10.7",
-    "hugo-bin": "^0.71",
+    "hugo-bin": "^0.70",
     "instant.page": "^5.1",
-    "katex": "^0.13",
+    "katex": "^0.13.0",
     "lazysizes": "^5.3",
     "markdownlint-cli": "^0.27",
-    "mermaid": "^8.10",
     "netlify-lambda": "^2.0",
     "postcss": "^8.2",
     "postcss-cli": "^8.3",
     "purgecss-whitelister": "^2.4",
     "rimraf": "^3.0",
     "shx": "^0.3.3",
-    "standard-version": "^9.2",
-    "stylelint": "^13.13",
-    "stylelint-config-standard": "^22.0"
+    "standard-version": "^9.1",
+    "stylelint": "^13.12",
+    "stylelint-config-standard": "^21.0"
   }
 }
