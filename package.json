@@ -1,5 +1,5 @@
 {
-  "name": "backend.how",
+  "name": "pratikgajjar.in",
   "description": "Guide to BE",
   "version": "0.2.3",
   "hugo-bin": {
@@ -8,7 +8,7 @@
   "browserslist": [
     "defaults"
   ],
-  "repository": "https://github.com/pratikgajjar/backend.how/",
+  "repository": "https://github.com/pratikgajjar/pg.in/",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
