@@ -3,8 +3,8 @@
 ## Homepage
 title = "PG"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+titleAddition = "Software Engineer"
+description = "Backend Engineer at FamPay. He is highly skilled in Django, RDBMS, AWS, DevOps. He has lead implementation of data science and backend systems."
 
 ## Open Graph + Twitter Cards
 twitterSite = "henkverlinde"
@@ -15,7 +15,7 @@ ogLocale = "en_US"
 
 ## JSON-LD
 schemaType = "Organization"
-schemaLogo = "logo-doks.png"
+# schemaLogo = "logo-doks.png"
 schemaTwitter = "https://twitter.com/pratikgajjar_in"
 schemaLinkedIn = "https://www.linkedin.com/in/pratikgajjar/"
 schemaGitHub = "https://github.com/pratikgajjar"
