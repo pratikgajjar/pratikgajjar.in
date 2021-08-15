@@ -1590,10 +1590,10 @@ body-parser@1.19.0, body-parser@^1.19.0:
     raw-body "2.4.0"
     type-is "~1.6.17"
 
-bootstrap@^5.0.0-beta3:
-  version "5.0.1"
-  resolved "https://registry.yarnpkg.com/bootstrap/-/bootstrap-5.0.1.tgz#e7939d599119dc818a90478a2a299bdaff037e09"
-  integrity sha512-Fl79+wsLOZKoiU345KeEaWD0ik8WKRI5zm0YSPj2oF1Qr+BO7z0fco6GbUtqjoG1h4VI89PeKJnMsMMVQdKKTw==
+bootstrap@^5.1.0:
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/bootstrap/-/bootstrap-5.1.0.tgz#543ef8f44f4b9af67b0230f19508542fec38ef55"
+  integrity sha512-bs74WNI9BgBo3cEovmdMHikSKoXnDgA6VQjJ7TyTotU6L7d41ZyCEEelPwkYEzsG/Zjv3ie9IE3EMAje0W9Xew==
 
 brace-expansion@^1.1.7:
   version "1.1.11"
@@ -3883,10 +3883,10 @@ https-browserify@^1.0.0:
   resolved "https://registry.yarnpkg.com/https-browserify/-/https-browserify-1.0.0.tgz#ec06c10e0a34c0f2faf199f7fd7fc78fffd03c73"
   integrity sha1-7AbBDgo0wPL68Zn3/X/Hj//QPHM=
 
-hugo-bin@^0.71:
-  version "0.71.1"
-  resolved "https://registry.yarnpkg.com/hugo-bin/-/hugo-bin-0.71.1.tgz#a581f33ed9fc0aaff3baf5d04239d6778ea3e3a3"
-  integrity sha512-H+aBkwtR6oSMcu1kCyzQlan+lcQ45k70JGX4v72h8mb0e4AbvaF58kAy6EDRK/U+/hD6ghTf0a6eLr5sENjaAg==
+hugo-bin@^0.75:
+  version "0.75.0"
+  resolved "https://registry.yarnpkg.com/hugo-bin/-/hugo-bin-0.75.0.tgz#d0bae7e4e7d588eb5ffee728883c704103a6f514"
+  integrity sha512-Ok2H9Cf28W0D5H1Xf9pHDK4PLx9WLq4J+HvtjKA2sNkO9u/F11Ed43qcaklVQmBOM0SjNylAlSF1/lyQNaszhQ==
   dependencies:
     bin-wrapper "^4.1.0"
     pkg-conf "^3.1.0"
