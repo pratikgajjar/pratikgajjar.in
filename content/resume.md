@@ -26,7 +26,7 @@ Employer: **[FamPay.in](https://fampay.in)** | Apr, 20 - Current | Bengaluru
 * Improved customer support flows & channels via B2B partnerships. Understood technicality and created cross Integration between B2B partners.
     * FreshDesk - Ticketing Software.
     * FreshChat - In-app chat with the support team.
-    * FreshBot.AI - ChatBot with the custom business flow.
+    * Freshbots.ai - ChatBot with the custom business flow.
     * Exotel - Cloud Telephony.
     * WhatsApp - Communication Medium via Kaleyra.
     * WebEngage - Contextual and personalized campaigns for user engagement.
