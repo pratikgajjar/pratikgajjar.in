@@ -14,13 +14,18 @@ contributors: ["Pratik Gajjar"]
 
 
 ## As of Apr 2021
-I've been working at FamPay as a backend engineer.
+He has been working at FamPay as a backend engineer. He loves solving all kind of problems.
 
 
 
 ## A Typical Day In My Work Life
 
 1. Solving problems at FamPay be it infra or new features.
-2. Learning advance database features and dev ops stuff
-3. Hiring & Reviews
+2. Hiring & Reviews
+3. Learning something every day, checkout [link](https://www.notion.so/b5b4b75a130f4e9db5fcabed50f7750f?v=40bbd11a1be244549563924afd17634e) to know more.
 
+## Non-work Day
+- Read blogs, mostly techn related.
+- Invest & Track stocks and mutual funds portfolies.
+- Watch & Play football, table tennis, badminton.
+- Binge watch NetFlix & Anime.
