@@ -1027,10 +1027,10 @@
   resolved "https://registry.yarnpkg.com/@humanwhocodes/object-schema/-/object-schema-1.2.0.tgz#87de7af9c231826fdd68ac7258f77c429e0e5fcf"
   integrity sha512-wdppn25U8z/2yiaT6YGquE6X8sSv7hNMWSXYSSU1jGv/yd6XqjXgTDJ8KP4NgjTXfJ3GbRjeeb8RTV7a/VpM+w==
 
-"@hyas/doks@^0.2":
-  version "0.2.3"
-  resolved "https://registry.yarnpkg.com/@hyas/doks/-/doks-0.2.3.tgz#7d2580b5c6f95b21f40a9e919659acd9e203507a"
-  integrity sha512-l+6GNa+YdXIXcX27ukgXBpofdYW+zD0yQ0lG/di1XKrugMTmPoryzO+4+PgxaokS2T0xV7cFaFlfRh2d+vMtKQ==
+"@hyas/doks@^0.3":
+  version "0.3.5"
+  resolved "https://registry.yarnpkg.com/@hyas/doks/-/doks-0.3.5.tgz#fca5779d43b04b11b2bcf79bf8dea559837d4c12"
+  integrity sha512-ExNAeD2Kaz6dXAkwfJKnmaYo+QGWdCMQdwDD9NdrxD/cLwEA+nImS8bstdCX1n0uVlTQKGO1Q5CbGP37pasWJQ==
 
 "@nicolo-ribaudo/chokidar-2@2.1.8-no-fsevents":
   version "2.1.8-no-fsevents"
@@ -3991,10 +3991,10 @@ https-browserify@^1.0.0:
   resolved "https://registry.yarnpkg.com/https-browserify/-/https-browserify-1.0.0.tgz#ec06c10e0a34c0f2faf199f7fd7fc78fffd03c73"
   integrity sha1-7AbBDgo0wPL68Zn3/X/Hj//QPHM=
 
-hugo-bin@^0.71:
-  version "0.71.1"
-  resolved "https://registry.yarnpkg.com/hugo-bin/-/hugo-bin-0.71.1.tgz#a581f33ed9fc0aaff3baf5d04239d6778ea3e3a3"
-  integrity sha512-H+aBkwtR6oSMcu1kCyzQlan+lcQ45k70JGX4v72h8mb0e4AbvaF58kAy6EDRK/U+/hD6ghTf0a6eLr5sENjaAg==
+hugo-bin@^0.77:
+  version "0.77.2"
+  resolved "https://registry.yarnpkg.com/hugo-bin/-/hugo-bin-0.77.2.tgz#62b36b322281384dd4ddf511fffb0a6f40b71b83"
+  integrity sha512-giv0vLvMiqjOxsN9tVisfuCH/WJhaDMVJq2AKfH3lp2l3mTDPMCLWFcqKYtdVaePavxaUPtaBciatqOyXRznog==
   dependencies:
     bin-wrapper "^4.1.0"
     pkg-conf "^3.1.0"
