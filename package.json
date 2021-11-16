@@ -38,7 +38,7 @@
   },
   "devDependencies": {
     "@babel/cli": "^7.14",
-    "@babel/core": "^7.15",
+    "@babel/core": "^7.16",
     "@babel/preset-env": "^7.14",
     "@fullhuman/postcss-purgecss": "^4.0",
     "@hyas/doks": "^0.2",
@@ -48,7 +48,7 @@
     "eslint": "^7.32",
     "flexsearch": "^0.6",
     "highlight.js": "^10.7",
-    "hugo-bin": "^0.71",
+    "hugo-bin": "^0.77",
     "instant.page": "^5.1",
     "katex": "^0.13.0",
     "lazysizes": "^5.3",
