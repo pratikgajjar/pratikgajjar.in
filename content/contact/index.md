@@ -14,7 +14,7 @@ images:
 contributors: ["Pratik Gajjar"]
 ---
 
-We can discuss about Carrier Guidance, Web Optimisation, Working in FinTech or Startup, Dev Ops, Resume Review, Django etc . .
+We can discuss about Career Guidance, Web Optimisation, Working in FinTech or Startup, Dev Ops, Resume Review, Django etc . .
 
 You can send mail at {{< email user="hello" domain="pratikgajjar.in" >}} or Schedule a meeting directly
 
