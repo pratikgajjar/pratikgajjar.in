@@ -1036,10 +1036,10 @@
   resolved "https://registry.yarnpkg.com/@humanwhocodes/object-schema/-/object-schema-1.2.0.tgz#87de7af9c231826fdd68ac7258f77c429e0e5fcf"
   integrity sha512-wdppn25U8z/2yiaT6YGquE6X8sSv7hNMWSXYSSU1jGv/yd6XqjXgTDJ8KP4NgjTXfJ3GbRjeeb8RTV7a/VpM+w==
 
-"@hyas/doks@^0.2":
-  version "0.2.3"
-  resolved "https://registry.yarnpkg.com/@hyas/doks/-/doks-0.2.3.tgz#7d2580b5c6f95b21f40a9e919659acd9e203507a"
-  integrity sha512-l+6GNa+YdXIXcX27ukgXBpofdYW+zD0yQ0lG/di1XKrugMTmPoryzO+4+PgxaokS2T0xV7cFaFlfRh2d+vMtKQ==
+"@hyas/doks@^0.5":
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/@hyas/doks/-/doks-0.5.0.tgz#24386e232abd0793c897e0a9f393774b94ab7126"
+  integrity sha512-fOft8l14zzWfvWRtvRHGfWFVC2G8IebibllU48YorTWAIcN3LlYuFM6qhasq/Qw5jC5Id7QohT46JBQmNhRZPg==
 
 "@jridgewell/gen-mapping@^0.1.0":
   version "0.1.1"
