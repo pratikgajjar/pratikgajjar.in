@@ -16,9 +16,4 @@ contributors: ["Pratik Gajjar"]
 
 We can discuss about Career Guidance, Web Optimisation, Working in FinTech or Startup, Dev Ops, Resume Review, Django etc . .
 
-You can send mail at {{< email user="hello" domain="pratikgajjar.in" >}} or Schedule a meeting directly
-
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/pratikgajjar/m" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
-<!-- Calendly inline widget end -->
+<iframe src="https://topmate.io/gajjarpratik" width="100%" height="600px" frameborder="0"></iframe>

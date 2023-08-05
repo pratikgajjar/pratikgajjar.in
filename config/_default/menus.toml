@@ -9,9 +9,14 @@
   weight = 20
 
 [[main]]
-  name = "Resume"
-  url = "/resume"
+  name = "Learnings"
+  url = "/learning"
   weight = 20
+
+# [[main]]
+#   name = "Resume"
+#   url = "/resume"
+#   weight = 20
 
 [[social]]
   name = "Twitter"
